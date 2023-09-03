@@ -1,0 +1,15 @@
+La actividad de crear un sitio web utilizando solo etiquetas HTML sobre un tema elegido proporciona una introducción valiosa al desarrollo web básico y a la creación de contenido en línea.
+
+Aprendizaje de HTML: Esta actividad ofrece una oportunidad práctica para aprender y aplicar etiquetas HTML básicas, lo que es fundamental para construir cualquier sitio web.
+
+Elección de Tema: La elección del tema permite a los estudiantes explorar su interés personal, lo que puede hacer que la actividad sea más atractiva y significativa.
+
+Práctica de Estructura: La creación de un sitio web de cuatro páginas con párrafos informativos y al menos tres imágenes por página ayuda a los estudiantes a practicar la estructura de un sitio web básico.
+
+Trabajo con Imágenes: El uso de imágenes en el sitio web fomenta la comprensión de cómo incorporar contenido visual y rutas relativas en un proyecto HTML.
+
+Hipervínculos: La creación de hipervínculos entre las páginas permite a los estudiantes aprender cómo navegar y conectar diferentes partes de un sitio web.
+
+Enfoque en HTML Puro: Al limitar la actividad al uso exclusivo de HTML sin JavaScript ni CSS, los estudiantes se centran en los fundamentos esenciales de la estructura y el contenido web.
+
+En resumen, esta actividad ofrece una base sólida para comprender y aplicar conceptos esenciales de desarrollo web utilizando HTML. Aunque es un punto de partida, sienta las bases para futuras exploraciones en desarrollo web y diseño de sitios más avanzados.
